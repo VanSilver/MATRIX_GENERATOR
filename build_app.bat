@@ -1,0 +1,1 @@
+pyinstaller -F -w -i "logo.ico" MATRIX_GENERATOR.py
